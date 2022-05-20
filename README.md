@@ -1,6 +1,6 @@
 # Parallax-Website
 
-[click here to see](https://fatihcaliss.github.io/Parallax-Website/)
+[Click here to see website on browser](https://fatihcaliss.github.io/Parallax-Website/)
 
 ✔ I prepared this repo for my bootcamp assignment.<br>
 ✔ I improved my ability to make the web page responsive.<br>
